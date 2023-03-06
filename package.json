@@ -1,4 +1,15 @@
 {
+  
+  "name": "Qsense",
+  "version": "1.0.0",
+  "description": "Smart Device",
+  "main": "app.js",
+  "keywords": [
+      "Smart",
+      "Device"
+    ],
+  "author": "Ashish Thomas",
+  "license": "MIT",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
@@ -9,4 +20,5 @@
   "scripts": {
     "start": "nodemon --trace-warnings app.js"
   }
+
 }
